@@ -19,6 +19,10 @@ Tutorials
 Yingqiang Ge, Shuchang Liu, **Zuohui Fu**, Juntao Tan, Zelong Li, Shuyuan Xu, Yunqi Li, Yikun Xian and Yongfeng Zhang<br>
 [arxiv](https://arxiv.org/abs/2207.12515)
 
+**[AACL'22] Assessing Combinational Generalization of Language Models in Biased Scenarios**<br>
+Yanbo Fang, **Zuohui Fu**, Xin Dong, Yongfeng Zhang and Gerard de Melo<br>
+[paper]()
+
 **[CIKM'22] Dynamic Causal Collaborative Filtering**<br>
 Shuyuan Xu, Juntao Tan, **Zuohui Fu**, Jianchao Ji, Shelby Heinecke and Yongfeng Zhang<br>
 [paper]()
