@@ -21,7 +21,6 @@ Yingqiang Ge, Shuchang Liu, **Zuohui Fu**, Juntao Tan, Zelong Li, Shuyuan Xu, Yu
 
 **[AACL'22] Assessing Combinational Generalization of Language Models in Biased Scenarios**<br>
 Yanbo Fang, **Zuohui Fu**, Xin Dong, Yongfeng Zhang and Gerard de Melo<br>
-**🏆 Best Paper Award 🏆**
 [paper]()
 
 **[CIKM'22] Dynamic Causal Collaborative Filtering**<br>
@@ -30,6 +29,7 @@ Shuyuan Xu, Juntao Tan, **Zuohui Fu**, Jianchao Ji, Shelby Heinecke and Yongfeng
 
 **[CIKM'22] Harnessing Neighborhood Modeling and Asymmetry Preservation for Digraph Representation Learning**<br>
 Honglu Zhou, Advith Chegu, Samuel Sohn, **Zuohui Fu**, Gerard de Melo and Mubbasir Kapadia<br>
+**🏆 Best Paper Award 🏆**<br>
 [paper]()
 
 **[RecSys'22] Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)**<br>
