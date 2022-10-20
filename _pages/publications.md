@@ -21,6 +21,7 @@ Yingqiang Ge, Shuchang Liu, **Zuohui Fu**, Juntao Tan, Zelong Li, Shuyuan Xu, Yu
 
 **[AACL'22] Assessing Combinational Generalization of Language Models in Biased Scenarios**<br>
 Yanbo Fang, **Zuohui Fu**, Xin Dong, Yongfeng Zhang and Gerard de Melo<br>
+**🏆 Best Paper Award 🏆**
 [paper]()
 
 **[CIKM'22] Dynamic Causal Collaborative Filtering**<br>
