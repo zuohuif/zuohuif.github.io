@@ -64,6 +64,7 @@ Collaborated/Supervised Students:
 
 Awards and Activities
 ------
++ ACM CIKM 2022 Full Paper Track 🏆 Best Paper Award 🏆
 + Pass Ph.D. Defense on 09/16/2021
 + CIKM 2021 Travel Award
 + SIGIR 2020 Travel Award
