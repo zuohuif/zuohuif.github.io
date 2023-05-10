@@ -23,6 +23,7 @@ Industry Experience
 
 Tutorials & Guest Lectures
 ------
++ 2023, Guest Talk, DEFirst - Diversity, Explainability, Fairness in information retrieval, recommendation, and search systems, Mila
 + 2021, Guest Lecture, Graph Mining, Department of Computer Science, Brandeis University
 + 2021, Tutorial, Conversational Recommendation Systems, WSDM 2021 & IUI 2021
 + 2020, Tutorial, Conversational Recommendation Systems, RecSys 2020, Check the [website](https://conversational-recsys.github.io/)
